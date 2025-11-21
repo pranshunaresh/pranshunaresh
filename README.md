@@ -92,11 +92,7 @@ I build modern, scalable, and beautiful mobile apps using **Flutter**, along wit
 
 ---
 
-# 🐍 Contribution Snake Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
