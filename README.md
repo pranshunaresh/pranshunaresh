@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/5LMtS1N/github-banner.png" width="100%" alt="banner">
 </p>
 
-<h1 align="center">👋 Hi, Welcome to My Profile</h1>
+<h1 align="center"> Welcome to My Profile</h1>
 
 # 👋 Hi, I'm Pranshu Naresh
 
