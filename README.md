@@ -56,11 +56,9 @@ A large-scale Flutter application featuring:
 
 ## 📌 **Jefnets (Tracking & Monitoring App)**
 A multi-feature mobile app:
-- Live GPS tracking
 - Login with device info
-- OSM maps integration
-- Attendance logs with month filter
 - API-based user data
+- Service Management 
 - Modern UI + responsive layout
 
 ➡ **Tech:** Flutter, Geolocator, OSM Plugin, API Integration  
