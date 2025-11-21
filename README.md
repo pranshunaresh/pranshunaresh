@@ -56,12 +56,10 @@ I build modern, scalable, and beautiful mobile apps using **Flutter**, along wit
 ---
 
 ## 📌 **Jefnets (Tracking & Monitoring App)**
-- Live GPS tracking  
-- Login with device info  
-- OSM Maps integration  
-- Attendance monthly logs  
-- Real-time user/location API  
-➡ **Tech:** Flutter, OSM, Geolocator, API Integration  
+- Login with device info
+- Service Management 
+- Real-time user/location API
+- Real-time service request listing 
 
 ---
 
