@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Pranshu Naresh
 
-### 🚀 Flutter Developer | Android Developer | Web Developer
+### 🚀 Flutter Developer | Android Developer | 
 
 Welcome to my GitHub!  
 I build modern, scalable, and beautiful mobile apps using **Flutter**, along with experience in **Android** and **Web development**.
