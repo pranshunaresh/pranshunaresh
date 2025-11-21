@@ -1,13 +1,14 @@
+
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/5LMtS1N/github-banner.png" width="100%" alt="banner">
+  <img src="https://raw.githubusercontent.com/techwithprasun/assets/main/banners/flutter-dev-banner.png" width="100%" alt="banner">
 </p>
 
 <h1 align="center"> Welcome to My Profile</h1>
 
 # 👋 Hi, I'm Pranshu Naresh
 
-### 🚀 Flutter Developer | Android Developer | 
+### 🚀 Flutter Developer | Android Developer | Web Developer
 
 Welcome to my GitHub!  
 I build modern, scalable, and beautiful mobile apps using **Flutter**, along with experience in **Android** and **Web development**.
@@ -45,21 +46,21 @@ I build modern, scalable, and beautiful mobile apps using **Flutter**, along wit
 # 📂 Featured Projects
 
 ## 📌 **Rolbol (Community Platform App)**
-- Dynamic Home timeline
-- Events & Blog posts (API)
-- Directory list + profiles
+- Dynamic Home timeline  
+- Events & Blog posts (API)  
+- Directory list + profiles  
 - OTP login  
-- Edit profile (local caching)
+- Edit profile (local caching)  
 - Custom UI components  
 ➡ **Tech:** Flutter, REST APIs, SharedPreferences  
 
 ---
 
 ## 📌 **Jefnets (Tracking & Monitoring App)**
-- Login with device info
-- Service Management 
-- Real-time user/location API
-- Real-time service request listing 
+- Login with device info  
+- Service Management  
+- Real-time user/location API  
+- Real-time service request listing  
 
 ---
 
@@ -87,10 +88,6 @@ I build modern, scalable, and beautiful mobile apps using **Flutter**, along wit
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshunaresh&layout=compact&theme=radical" height="180px" />
 </p>
-
----
-
-
 
 ---
 
