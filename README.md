@@ -14,68 +14,95 @@ I build modern, scalable, and beautiful mobile apps using **Flutter**, along wit
 
 ---
 
-## 🔧 Languages & Tools
+# 🔧 Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/API_Integration-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 💙 Mobile App Development Skills
+# 💙 Mobile App Development Skills
 - **Flutter / Dart**
-- State Management: Provider, Riverpod  
-- REST API Integration
-- Firebase Authentication / Firestore / Messaging
-- SharedPreferences & Hive local storage
-- Responsive UI & Custom Animations
+- Provider & Riverpod state management  
+- REST API Integration  
+- Firebase Auth, Firestore, Messaging  
+- SharedPreferences & Hive  
+- Responsive UI + custom animations  
 
 ---
 
 # 📂 Featured Projects
 
 ## 📌 **Rolbol (Community Platform App)**
-A large-scale Flutter application featuring:
 - Dynamic Home timeline
-- Events & Blog posts from API
-- Directory list with profile pages
-- OTP login system
-- Edit profile with local caching
-- Custom reusable components
-- REST API integration throughout
-
+- Events & Blog posts (API)
+- Directory list + profiles
+- OTP login  
+- Edit profile (local caching)
+- Custom UI components  
 ➡ **Tech:** Flutter, REST APIs, SharedPreferences  
 
 ---
 
 ## 📌 **Jefnets (Tracking & Monitoring App)**
-A multi-feature mobile app:
-- Login with device info
-- API-based user data
-- Service Management 
-- Modern UI + responsive layout
-
-➡ **Tech:** Flutter, Geolocator, OSM Plugin, API Integration  
+- Live GPS tracking  
+- Login with device info  
+- OSM Maps integration  
+- Attendance monthly logs  
+- Real-time user/location API  
+➡ **Tech:** Flutter, OSM, Geolocator, API Integration  
 
 ---
 
 ## 📌 **iTrack (Attendance & Tracking App)**
-- Login / OTP Verification  
-- Live Location tracking  
+- OTP login  
+- Live location  
 - Attendance logs  
-- API-driven dashboard  
+- API integrated dashboard  
 
 ---
 
-## 📞 Contact Me
-- 📧 **Email:** **pranshunaresh@gmail.com**  
-- 🔗 **GitHub:** [github.com/pranshunaresh](https://github.com/pranshunaresh)
+# 📊 GitHub Stats & Analytics
+
+### ⭐ GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranshunaresh&show_icons=true&theme=radical" height="180px" />
+</p>
+
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshunaresh&theme=radical" height="180px" />
+</p>
+
+### 📘 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshunaresh&layout=compact&theme=radical" height="180px" />
+</p>
+
+---
+
+# 🐍 Contribution Snake Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📞 Contact Me
+- 📧 **Email:** pranshunaresh@gmail.com  
+- 🔗 **GitHub:** https://github.com/pranshunaresh  
 
 ---
 
