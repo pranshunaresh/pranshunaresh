@@ -1,17 +1,23 @@
-
 <!-- Top Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/techwithprasun/assets/main/banners/flutter-dev-banner.png](https://share.google/images/w3M7xe2JtROc0zzpj)" width="100%" alt="banner">
+  <img src="https://share.google/images/w3M7xe2JtROc0zzpj" width="100%" alt="banner">
 </p>
 
-<h1 align="center"> Welcome to My Profile</h1>
+<h1 align="center"> Welcome to My GitHub Profile 👋</h1>
 
 # 👋 Hi, I'm Pranshu Naresh
 
 ### 🚀 Flutter Developer | Android Developer | Web Developer
 
 Welcome to my GitHub!  
-I build modern, scalable, and beautiful mobile apps using **Flutter**, along with experience in **Android** and **Web development**.
+I build modern, scalable, and high-performance applications using **Flutter**, **Android (Java/Kotlin)**, and **Web technologies**.  
+Passionate about clean architecture, API integrations, performance optimization, and beautiful UI/UX.
+
+---
+
+# 🌐 My Portfolio
+👉 **Live Portfolio:**  
+### 🔗 https://pranshu-folio-v1.lovable.app/#contact
 
 ---
 
@@ -34,57 +40,61 @@ I build modern, scalable, and beautiful mobile apps using **Flutter**, along wit
 ---
 
 # 💙 Mobile App Development Skills
-- **Flutter / Dart**
-- Provider & Riverpod state management  
+- Flutter / Dart  
+- Riverpod / Provider  
 - REST API Integration  
-- Firebase Auth, Firestore, Messaging  
-- SharedPreferences & Hive  
-- Responsive UI + custom animations  
+- Firebase (Auth, Firestore, Messaging, Storage)  
+- SharedPreferences / Hive  
+- Clean architecture & reusable components  
+- Custom animations & responsive UI  
 
 ---
 
 # 📂 Featured Projects
 
-## 📌 **Rolbol (Community Platform App)**
-- Dynamic Home timeline  
-- Events & Blog posts (API)  
-- Directory list + profiles  
-- OTP login  
-- Edit profile (local caching)  
-- Custom UI components  
-➡ **Tech:** Flutter, REST APIs, SharedPreferences  
+## 📱 **Rolbol – Community & Networking App**
+➡ **Play Store:** https://play.google.com/store/apps/details?id=com.technolitics.rolbol  
+
+**Description:**  
+Rolbol is a complete digital networking and community engagement platform featuring home timelines, member directories, event updates, notifications, blogs, activity feeds, and dynamic API-driven content.  
+Includes user profiles, OTP login, image galleries, and custom UI components.
+
+**Tech:** Flutter, REST APIs, SharedPreferences, Firebase Messaging, Custom Models
 
 ---
 
-## 📌 **Jefnets (Tracking & Monitoring App)**
-- Login with device info  
-- Service Management  
-- Real-time user/location API  
-- Real-time service request listing  
+## 📱 **Manager On Hand – Business Management App**
+➡ **Play Store:** https://play.google.com/store/apps/details?id=com.jefnets.manager.app  
+
+**Description:**  
+A powerful business tool for handling employee attendance, salary tracking, work logs, advances, daily reports, and automated calculations.  
+Designed for small and medium businesses with clean UI and smooth workflow.
+
+**Tech:** Flutter, Provider, REST APIs, SharedPreferences
 
 ---
 
-## 📌 **iTrack (Attendance & Tracking App)**
-- OTP login  
-- Live location  
-- Attendance logs  
-- API integrated dashboard  
+## 📱 **iTrack – Attendance & Location Tracking**
+**Description:**  
+A location-based attendance app with OTP login, live location tracking, daily logs, dashboards, and real-time API integration.
+
+**Tech:** Flutter, Geolocator, APIs, UI animations
 
 ---
 
-# 📊 GitHub Stats & Analytics
+# 📊 GitHub Stats
 
-### ⭐ GitHub Stats  
+### ⭐ Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranshunaresh&show_icons=true&theme=radical" height="180px" />
 </p>
 
-### 🔥 Streak Stats  
+### 🔥 Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshunaresh&theme=radical" height="180px" />
 </p>
 
-### 📘 Top Languages  
+### 📘 Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshunaresh&layout=compact&theme=radical" height="180px" />
 </p>
@@ -92,9 +102,11 @@ I build modern, scalable, and beautiful mobile apps using **Flutter**, along wit
 ---
 
 # 📞 Contact Me
-- 📧 **Email:** pranshunaresh@gmail.com  
-- 🔗 **GitHub:** https://github.com/pranshunaresh  
+- 📧 Email: **pranshunaresh@gmail.com**  
+- 🔗 GitHub: https://github.com/pranshunaresh  
+- 🌐 Portfolio: https://pranshu-folio-v1.lovable.app/#contact  
+- 🔗 LinkedIn: https://www.linkedin.com/in/pranshu-naresh-b21999217  
 
 ---
 
-⭐ **Feel free to explore my repositories and drop a star on projects you like!**
+⭐ **Feel free to explore my repositories and star the projects you like!**
