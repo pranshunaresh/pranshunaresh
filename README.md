@@ -17,7 +17,7 @@ Passionate about clean architecture, API integrations, performance optimization,
 
 # 🌐 My Portfolio
 👉 **Live Portfolio:**  
-### 🔗 https://pranshu-folio-v1.lovable.app/#contact
+### 🔗 https://pranshu-naresh.lovable.app/#contact
 
 ---
 
