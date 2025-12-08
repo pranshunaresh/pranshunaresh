@@ -63,7 +63,7 @@ Includes user profiles, OTP login, image galleries, and custom UI components.
 
 ---
 
-## 📱 **Management On Hand – Business Management App**
+## 📱 **Jefnets – Business Management App**
 ➡ **Play Store:** https://play.google.com/store/apps/details?id=com.jefnets.manager.app  
 
 **Description:**  
